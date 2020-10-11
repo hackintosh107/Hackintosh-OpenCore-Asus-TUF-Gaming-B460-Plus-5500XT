@@ -7,7 +7,7 @@
 * Ethernet: Intel® I219-V 1Gb Ethernet
 
 # Version: 
-* Opencore: 0.6.2
+* OpenCore: 0.6.2
 
 # Working:
 - [x] AMD Radeon RX 5500XT
